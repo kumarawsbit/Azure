@@ -1,10 +1,13 @@
-Git Vs Git Hub
+﻿Git Vs Git Hub
 
 what id GIT?
 
 centralized Version control vs districted version control?
 
 Why not SVN?
+
+what are the other Source controls tools?
+Ans : Bit bucket, git lab
 
 installation of GIT in local system.
 
