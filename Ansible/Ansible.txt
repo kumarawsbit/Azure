@@ -26,7 +26,7 @@ sudo ufw disable --> firewall disable.
 
 Now open
 
-/etc/ansiable/hosts
+/etc/ansible/hosts
 
 [win]
 10.0.0.4
