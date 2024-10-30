@@ -45,6 +45,8 @@ https://docs.ansible.com/ansible/latest/command_guide/intro_adhoc.html
 
 ansible win -m win_ping --> to ping windows server…
 
+ansible win -m win_file -a "path='c://gerard' state=absent" -- delete a windows folder.
+
 Run a sample small play book as below. Save it as test.yaml file
 
 ---
