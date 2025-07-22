@@ -1,3 +1,4 @@
 Azure region view - https://datacenters.microsoft.com/globe/explore/
 Jenkins -- CICD --> https://www.youtube.com/watch?v=M5nOIklD7SA
 Demo
+kumar
